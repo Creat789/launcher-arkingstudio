@@ -22,7 +22,7 @@
                "type":"ForgeHosted",
                "artifact":{
                   "size":5035170,
-                  "MD5":"8112748766BA92310141FEF972FC1AE6",
+                  "MD5":"8112748766ba92310141fef972fc1ae6",
                   "url":"http://5.196.128.180/forge-1.12.2-14.23.5.2838-universal.jar"
                },
                "subModules":[
@@ -213,8 +213,8 @@
                "name":"ArkaniaZMenu",
                "type":"ForgeMod",
                "artifact":{
-                  "size":16053440,
-                  "MD5":"a7ed7ebdf28fada7ce85601e00279668",
+                  "size":9495660,
+                  "MD5":"8d2691b98eea818ee9d2117b1798b7cc",
                   "url":"https://launcher.arkaniaz.fr/mod/menu.jar"
                }
             },
@@ -233,8 +233,8 @@
                "name":"ArkaniaZMod",
                "type":"ForgeMod",
                "artifact":{
-                  "size":23895176,
-                  "MD5":"d468e7fd6de47839043d40dd682c3930",
+                  "size":3458116,
+                  "MD5":"d35b82e31f1e11fbf227c3f1556472e9",
                   "url":"https://launcher.arkaniaz.fr/mod/gunmod.jar"
                }
             },
@@ -248,6 +248,17 @@
                   "url":"https://launcher.arkaniaz.fr/OptiFine_1.12.2_HD_U_F5.jar"
                }
             }
+            {
+               "id":"content-pack",
+               "name":"content-pack",
+               "type":"File",
+               "artifact":{
+                  "size":16119259,
+                  "path":"Modularwarfare/arkaniaz-pack-beta.zip",
+                  "MD5":"e4f113989fca2a928ead05a8754be1cc",
+                  "url":"https://launcher.arkaniaz.fr/beta/arkaniaz.zip"
+               }
+            },
          ]
       }
    ]
