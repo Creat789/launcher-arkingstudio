@@ -248,17 +248,6 @@
                   "url":"https://launcher.arkaniaz.fr/OptiFine_1.12.2_HD_U_F5.jar"
                }
             }
-            {
-               "id":"content-pack",
-               "name":"content-pack",
-               "type":"File",
-               "artifact":{
-                  "size":16119259,
-                  "path":"Modularwarfare/arkaniaz-pack-beta.zip",
-                  "MD5":"e4f113989fca2a928ead05a8754be1cc",
-                  "url":"https://launcher.arkaniaz.fr/beta/arkaniaz.zip"
-               }
-            }
          ]
       }
    ]
